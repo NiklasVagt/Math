@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "44b7b9d61614471a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ac77db46d0d31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82ba9365f37c15cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additionsverfahren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30632e7f48a548df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gleichsetzungsverfahren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58a7b17425b704d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0fd41b11dd6ad78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a977b93387669af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b812726665cd076b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef515a840006b0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "613f35c97ffc80ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd24a38b0dfb755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8ecf1fced810492",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Additionsverfahren.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d901057a3f97bf8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Additionsverfahren.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a69d223da1f982f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c77e45780d85ac1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Additionsverfahren.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82ba9365f37c15cc",
+  "lastOpenFiles": [
+    "Gleichsetzungsverfahren.md",
+    "Additionsverfahren.md"
+  ]
+}
